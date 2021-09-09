@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: auto;
+}
+body {
+    background-image: url(./asst/IMG_20210713_144725_782~2.jpg);
+    border-image-width: auto;
+    background-size: cover;
+    height: 150vh;
+    width: auto;
+    display: grid;
+    align-items: center;
+    
+}
+.Heading {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    justify-content: center;
+
+}
+img {
+    margin-left: 260px;
+    margin-top: auto;
+    margin-right: 280px;
+    width: 100px;
+}
+.class-section{
+    display: grid;
+    width: fit-content;
+}
