@@ -1,0 +1,17 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: antiquewhite;
+}
+.header{
+    padding: 3%;
+    text-align: center;
+}
+.button1{
+    padding: 3%;
+    float: left;
+}
+.button2{
+    padding: 3%;
+    float: right;
+}
